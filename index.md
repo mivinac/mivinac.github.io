@@ -1,2 +1,5 @@
-# MivinaC Site - Сайт пользователя MivinaC
+# OpenVK ITB
+## На GitHub
+[GitHub](https://github.com/mivinac/openvk)
+
 
